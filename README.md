@@ -1,6 +1,6 @@
 # NFT PREVIEW CARD
 
-💠 A Frontend Mentor
+💠 A Frontend Mentor Challenge
 
 Acess: https://lucasstevanin.github.io/nft_preview_card/
 
